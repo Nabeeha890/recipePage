@@ -5,13 +5,17 @@
     font-size: 12pt;
 	background-repeat: no-repeat;
 	animation-name: box;
-	animation-duration: 5s;
+  animation-duration: 5s;
+  font-family: 'Dancing Script', cursive;
+
 
 } 
 h1 {
 	text-align: center;
 	color: #4d0000;
-	font-size: 30pt;
+  font-family: 'Dancing Script', cursive;
+  font-size: 70px;
+  font: bold;
 }
 
 @keyframes box {
